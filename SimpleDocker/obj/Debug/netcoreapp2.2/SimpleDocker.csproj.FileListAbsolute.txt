@@ -1,0 +1,14 @@
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\obj\Debug\netcoreapp2.2\SimpleDocker.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\obj\Debug\netcoreapp2.2\SimpleDocker.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\obj\Debug\netcoreapp2.2\SimpleDocker.AssemblyInfo.cs
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\bin\Debug\netcoreapp2.2\SimpleDocker.deps.json
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\bin\Debug\netcoreapp2.2\SimpleDocker.runtimeconfig.json
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\bin\Debug\netcoreapp2.2\SimpleDocker.runtimeconfig.dev.json
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\bin\Debug\netcoreapp2.2\SimpleDocker.dll
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\bin\Debug\netcoreapp2.2\SimpleDocker.pdb
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\obj\Debug\netcoreapp2.2\SimpleDocker.csprojAssemblyReference.cache
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\obj\Debug\netcoreapp2.2\SimpleDocker.RazorAssemblyInfo.cache
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\obj\Debug\netcoreapp2.2\SimpleDocker.RazorAssemblyInfo.cs
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\obj\Debug\netcoreapp2.2\SimpleDocker.RazorTargetAssemblyInfo.cache
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\obj\Debug\netcoreapp2.2\SimpleDocker.dll
+C:\Users\Dmitriy\source\repos\SimpleDocker\SimpleDocker\obj\Debug\netcoreapp2.2\SimpleDocker.pdb
